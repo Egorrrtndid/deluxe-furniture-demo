@@ -19,3 +19,5 @@ Project photographs were obtained from the studio's public Instagram posts for t
 
 Descriptive project names are editorial labels, not official project names. The wordmark and layout are an independent typographic design concept for review. No reviews, prices, completion-time guarantees, or performance statistics have been invented. Image rights remain with their respective owners; official launch and marketing use require the owner's agreement.
 
+
+The first-screen photograph uses the 3024 × 4032 version from the original post (kitchen-main-hq.jpg). Typography uses locally hosted Manrope with Cyrillic support; see manrope-license.txt for the SIL Open Font License.
